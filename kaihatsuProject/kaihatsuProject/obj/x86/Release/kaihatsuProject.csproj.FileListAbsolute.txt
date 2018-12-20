@@ -1,0 +1,15 @@
+G:\進捗\VisualStudio\kaihatsuProject\kaihatsuProject\bin\x86\Release\kaihatsuProject.exe.config
+G:\進捗\VisualStudio\kaihatsuProject\kaihatsuProject\bin\x86\Release\kaihatsuProject.exe
+G:\進捗\VisualStudio\kaihatsuProject\kaihatsuProject\bin\x86\Release\kaihatsuProject.pdb
+G:\進捗\VisualStudio\kaihatsuProject\kaihatsuProject\obj\x86\Release\MainWindow.g.cs
+G:\進捗\VisualStudio\kaihatsuProject\kaihatsuProject\obj\x86\Release\App.g.cs
+G:\進捗\VisualStudio\kaihatsuProject\kaihatsuProject\obj\x86\Release\kaihatsuProject_MarkupCompile.cache
+G:\進捗\VisualStudio\kaihatsuProject\kaihatsuProject\obj\x86\Release\kaihatsuProject_MarkupCompile.lref
+G:\進捗\VisualStudio\kaihatsuProject\kaihatsuProject\obj\x86\Release\MainWindow.baml
+G:\進捗\VisualStudio\kaihatsuProject\kaihatsuProject\obj\x86\Release\kaihatsuProject.g.resources
+G:\進捗\VisualStudio\kaihatsuProject\kaihatsuProject\obj\x86\Release\kaihatsuProject.Properties.Resources.resources
+G:\進捗\VisualStudio\kaihatsuProject\kaihatsuProject\obj\x86\Release\kaihatsuProject.csproj.GenerateResource.Cache
+G:\進捗\VisualStudio\kaihatsuProject\kaihatsuProject\obj\x86\Release\kaihatsuProject.exe
+G:\進捗\VisualStudio\kaihatsuProject\kaihatsuProject\obj\x86\Release\kaihatsuProject.pdb
+G:\進捗\VisualStudio\kaihatsuProject\kaihatsuProject\obj\x86\Release\kaihatsuProject.csprojResolveAssemblyReference.cache
+G:\進捗\VisualStudio\kaihatsuProject\kaihatsuProject\bin\x86\Release\WebCam_Capture.dll
