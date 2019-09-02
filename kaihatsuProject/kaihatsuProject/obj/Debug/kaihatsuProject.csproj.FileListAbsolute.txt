@@ -43,3 +43,6 @@ G:\進捗\VisualStudio\kaihatsuProject\kaihatsuProject\bin\Debug\OpenCvSharp.Ext
 G:\進捗\VisualStudio\kaihatsuProject\kaihatsuProject\bin\Debug\OpenCvSharp.Extensions.xml
 G:\進捗\VisualStudio\kaihatsuProject\kaihatsuProject\bin\Debug\OpenCvSharp.UserInterface.pdb
 G:\進捗\VisualStudio\kaihatsuProject\kaihatsuProject\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\satoru\Documents\GitHub\gitKaihatsuRemote\kaihatsuProject\kaihatsuProject\bin\Debug\kaihatsuProject.exe.config
+C:\Users\satoru\Documents\GitHub\gitKaihatsuRemote\kaihatsuProject\kaihatsuProject\obj\Debug\kaihatsuProject.exe
+C:\Users\satoru\Documents\GitHub\gitKaihatsuRemote\kaihatsuProject\kaihatsuProject\obj\Debug\kaihatsuProject.pdb

@@ -92,6 +92,7 @@
     <Compile Include="Class1.cs" />
     <Compile Include="ExternalAppManager.cs" />
     <Compile Include="GazedPoint.cs" />
+    <Compile Include="HeatMap.cs" />
     <Compile Include="LoadSettings.cs" />
     <Compile Include="SerialCommunication.cs" />
     <Page Include="MainWindow.xaml">
